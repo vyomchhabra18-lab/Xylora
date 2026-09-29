@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://versafemme.vercel.app/sitemap.xml
+Sitemap: https://xylorawholesale.vercel.app/sitemap.xml
